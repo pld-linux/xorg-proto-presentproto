@@ -1,13 +1,13 @@
 Summary:	Present extension headers
 Summary(pl.UTF-8):	Nagłówki rozszerzenia Present
 Name:		xorg-proto-presentproto
-Version:	1.0
-Release:	2
+Version:	1.1
+Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/individual/proto/presentproto-%{version}.tar.bz2
-# Source0-md5:	2d569c75884455c7148d133d341e8fd6
-URL:		http://xorg.freedesktop.org/
+Source0:	https://xorg.freedesktop.org/releases/individual/proto/presentproto-%{version}.tar.bz2
+# Source0-md5:	92f9dda9c870d78a1d93f366bcb0e6cd
+URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
 BuildRequires:	docbook-dtd43-xml
