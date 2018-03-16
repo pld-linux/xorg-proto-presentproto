@@ -1,8 +1,9 @@
+# NOTE: now maintained in xorg-proto-xorgproto.spec
 Summary:	Present extension headers
 Summary(pl.UTF-8):	Nagłówki rozszerzenia Present
 Name:		xorg-proto-presentproto
 Version:	1.1
-Release:	1
+Release:	1.1
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	https://xorg.freedesktop.org/releases/individual/proto/presentproto-%{version}.tar.bz2
